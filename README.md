@@ -1,6 +1,6 @@
 # GraphPathes
 
-R implementation of self-modified methods of depth-first search, breadth-first search and Dijkstra's algorithm.
+R implementation of my modifications of methods of depth-first search, breadth-first search and Dijkstra's algorithm.
 
 DFS and BFS were modified to work not only for tree graphs, but for more complex cases. They DO NOT return optimal path in general case. They return just some path.
 
